@@ -1,4 +1,5 @@
 ## Writeup 
+![image0](./illustrations/gif.gif)
 
 ---
 
